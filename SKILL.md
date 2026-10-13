@@ -1,5 +1,6 @@
 ---
 name: codex-zcode
+license: MIT
 description: 在本地 Codex 中指挥 ZCode 的 GLM-5.3 与 GLM-5.3-Flash 实现、测试和返工，由 Codex 把控范围与最终验收，减少 Codex 编码用量。用户要求 ZCode 派工、GLM 执行项目或节省 Codex 额度时使用。
 ---
 

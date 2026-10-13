@@ -72,3 +72,7 @@ python3 -m unittest discover -s tests -v
 Windows 进程树清理仅做 mock 验证。执行模式及提示词不构成操作系统沙盒，文件范围靠任务约束和 Codex 验收。
 
 本仓库不包含 ZCode 程序、provider 配置、凭据、真实对话数据库或运行日志；这是独立适配工具，与 ZCode 或 OpenAI 无官方关联。
+
+## 许可证
+
+[MIT](LICENSE)。本仓库许可证仅覆盖此 Skill 与适配脚本，ZCode 及其服务条款由其提供方管理。
