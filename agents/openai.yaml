@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 指挥 ZCode"
+  short_description: "派工 GLM-5.3 与 Flash 实现和返工，由 Codex 负责验收"
+  default_prompt: "使用 $codex-zcode 推进当前任务，让 GLM 实现并测试，你负责范围、验收和最多两轮定向返工。"
